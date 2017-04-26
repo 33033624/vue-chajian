@@ -84,7 +84,7 @@ export default {
 }
 </script>
 
-<style lang="less">
+<style lang="scss">
 	.top_tips{
 		position: absolute;
 		height: 7.35rem;
@@ -114,7 +114,7 @@ export default {
 		position: absolute;
 		top: 4.1rem;
 		left: 1rem;
-	}	
+	}
 	.home_logo{
 		background-image: url(../images/1-2.png);
 		background-size: 13.142rem 100%;

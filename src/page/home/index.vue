@@ -13,13 +13,13 @@ export default {
   		itemcontainer
   	},
     created(){
-        
+
     }
 }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
     .home_container{
-
+        background-color: red;
     }
 </style>
